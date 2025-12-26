@@ -460,8 +460,7 @@ REFERENCES
 [^Burg75]: Burge, William H. "Recursive programming techniques." (1975).   
 [^Burg75b]: Burge, W. H. (1975). Stream Processing Functions. IBM Journal of Research and Development, 19(1), 12–25. doi:10.1147/rd.191.0012   
 [^Burg89]: Burge, W.H., Watt, S.M. (1989). Infinite structures in scratchpad II. In: Davenport, J.H. (eds) Eurocal '87. EUROCAL 1987. Lecture Notes in Computer Science, vol 378. Springer, Berlin, Heidelberg. doi:10.1007/3-540-51517-8_103   
-[^Burg90]: Burg, Jennifer J. "Constraint-based programming: A survey." (1990).
-https://core.ac.uk/download/pdf/236248615.pdf   
+[^Burg90]: Burg, Jennifer J. "Constraint-based programming: A survey." (1990). https://core.ac.uk/download/pdf/236248615.pdf   
 [^Burs04]: ROD BURSTALL and VICTOR LESSER, Robin Popplestone https://www-robotics.cs.umass.edu/ARCHIVE/remembrance.html     
 [^Burs67]: Burstall, R. M., & Fox, L. (1967). Advances in Programming and Non-Numerical Computation. The Mathematical Gazette, 51(377), 277. doi:10.2307/3613292   
 [^Burs68]: Burstall, Rodney Martineau, John Stuart Collins, and Robin John Popplestone. POP-2 papers. Edinburgh & London: Oliver & Boyd, 1968.   
@@ -773,8 +772,7 @@ https://core.ac.uk/download/pdf/236248615.pdf
 [^Stra61]: Strachey, C., & Wilkes, M. V. (1961). Some proposals for improving the efficiency of ALGOL 60. Communications of the ACM, 4(11), 488-491.   
 [^Stra66]: BARRON D. W. and STRACHEY C. Programming in Advances in programming and non-numerical computation. 1966   
 [^Stra66b]: CPL Elementary Programming Manual https://web.archive.org/web/20190813130006/http://www.ancientgeek.org.uk/CPL/CPL_Elementary_Programming_Manual.pdf   
-[^Stra67]: Strachey, Christopher S.. “Fundamental Concepts in Programming Languages.” Higher-Order and Symbolic Computation 13 (2000): 11-49.
-DOI:10.1023/A:1010000313106   
+[^Stra67]: Strachey, Christopher S.. “Fundamental Concepts in Programming Languages.” Higher-Order and Symbolic Computation 13 (2000): 11-49. DOI:10.1023/A:1010000313106   
 [^Strachey]: Catalogue of the papers and correspondence of Christopher Strachey https://archives.bodleian.ox.ac.uk/repositories/2/resources/2561   
 [^Stro70]: H. R. Strong. 1970. Translating recursion equations into flow charts. In Proceedings of the second annual ACM symposium on Theory of computing (STOC '70). Association for Computing Machinery, New York, NY, USA, 184–197. doi:10.1145/800161.805164   
 [^Stro93]: Bjarne Stroustrup. 1993. A history of C++: 1979–1991. In The second ACM SIGPLAN conference on History of programming languages (HOPL-II). Association for Computing Machinery, New York, NY, USA, 271–297. doi:10.1145/154766.155375   
@@ -797,8 +795,7 @@ DOI:10.1023/A:1010000313106
 [^Vuil74]: B. Courcelle and J. Vuillemin. 1974. Semantics and axiomatics of a simple recursive language. In Proceedings of the sixth annual ACM symposium on Theory of computing (STOC '74). Association for Computing Machinery, New York, NY, USA, 13–26. doi:10.1145/800119.803880   
 [^Wads71]: Wadsworth, P. L. "Semantics and paragmatics of the lambda calculus." PhD thesis, Oxford Univ. (1971).   
 [^Wads2000]: Wadsworth, C.P. Continuations Revisited. Higher-Order and Symbolic Computation 13, 131–133 (2000). doi:10.1023/a:1010074329461     
-[^Walt75]: Waltz, David L. "Understanding line drawings of scenes with shadows." The psychology of computer vision (1975): 19-91.
-http://www1.cs.columbia.edu/~waltz/Papers/Understanding%20Line%20Drawing%20of%20Scenes%20with%20Shadows%20PH%20Winston%201975.pdf   
+[^Walt75]: Waltz, David L. "Understanding line drawings of scenes with shadows." The psychology of computer vision (1975): 19-91. http://www1.cs.columbia.edu/~waltz/Papers/Understanding%20Line%20Drawing%20of%20Scenes%20with%20Shadows%20PH%20Winston%201975.pdf   
 [^Wand77]: Wand, M. Algebraic theories and tree rewriting systems. Indiana University. Computer Science Department Technical Report 66 (1977).   
 [^Wand80]: Wand, M. First-order identities as a defining language. Acta Informatica 14, 337–357 (1980). doi:10.1007/BF00286491   
 [^Warr75]: David H. D. Warren. Example 1: Quicksort. Circa 1975. Example of generated code from PROLOG to DEC 10 Machine Code Compiler. https://www.softwarepreservation.org/projects/prolog/edinburgh/src/Warren-Prolog_Compiler_Example_1.pdf   
